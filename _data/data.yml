@@ -1,43 +1,60 @@
-name: John Doe
+name: DI Kevin Feichtinger
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: kevin.feichtinger@asak.at
+  github: coemgen1992
+  linkedin: kevin-feichtinger
   phone: 
   gitlab: 
-  twitter: 
+  twitter: k_feichtinger
 
 languages:
+  - idiom: German
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in Computer Science
+    time: 2016-2019
+    university: Johannes Kepler University Linz, Austria
+
+  - degree: Erasmus Exchagne Semester
+    time: 2016
+    university: Oxford Brooks University, United Kingdom
 
   - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+    time: 2012-2016
+    university: Johannes Kepler University Linz, Austria
 
 skills:
-  - category: Backend
+  - category: Programming
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Java
+      - C
+      - Eclipse RCP Development
+
+  - category: Driving Licenses
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - B
+      - BE
+      - C
+      - C1
+      - CE
+      - F
+
+  - category: Soft
     skill:
-      - Docker
-      - Kubernetes 
+      - Project Management
+      - Time Management
+      - Leadershp
+      - Teamwork
+      - Conflict Managment
+      - Organization Skills
+      - Presenation Skills
+      - Negotiation Skills
+      - Negotiation Skills
 
 # Profile
 profile: |
