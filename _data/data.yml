@@ -156,7 +156,7 @@ publications:
 
   - title: Supporting feature model evolution by suggesting constraints from code-level dependency analyses.
     link: "https://doi.org/10.1145/3357765.3359525"
-    authors: Kevin Feichtinger, Daniel Hinterreiter, Lukas Linsbauer, Herbert Pr&auml;hofer, and Paul Gr&uuml;nbacher
+    authors: Kevin Feichtinger, Daniel Hinterreiter, Lukas Linsbauer, Herbert Pr&auml;hofer, Paul Gr&uuml;nbacher
     conference: "18th ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences (GPCE) 2019"
 
   - title: "Variability Model Transformations: Towards Unifying Variability Modeling"
@@ -166,7 +166,7 @@ publications:
 
   - title: "Variability Transformation from Industrial Engineering Artifacts: An Example in the Cyber-Physical Production Systems Domain"
     link: "https://doi.org/10.1145/3382026.3425770"
-    authors: Kevin Feichtinger, Kristof Meixner, Rick Rabiser, and Stefan Biffl.
+    authors: Kevin Feichtinger, Kristof Meixner, Rick Rabiser, Stefan Biffl.
     conference: "24th ACM International Systems and Software Product Line Conference (SPLC) 2020"
 
   - title: "Towards Transforming Variability Models: Usage Scenarios, Required Capabilities and Challenges"
@@ -219,17 +219,47 @@ publications:
     authors: Kevin Feichtinger
     conference: "25th ACM International Systems and Software Product Line Conference (SPLC) 2021"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "Efficient Production Process Variability Exploration"
+    link: "https://doi.org/10.1145/3510466.3511274"
+    authors: Kristof Meixner, Kevin Feichtinger, Rick Rabiser, Stefan Biffl
+    conference: "16th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS) 2022"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "Towards Multidisciplinary Delta-Oriented Variability Management in Cyber-Physical Production Systems"
+    link: "https://doi.org/10.1145/3510466.3511273"
+    authors: Hafiyyan Sayyid Fadhlillah, Kevin Feichtinger, Kristof Meixner, Lisa Sonnleithner, Rick Rabiser, Alois Zoitl
+    conference: "16th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS) 2022"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "20th International Conference on Software and Systems Reuse, ICSR 2022"
+    link: "https://doi.org/10.1007/978-3-031-08129-3_5"
+    authors: Kevin Feichtinger, Kristof Meixner, Stefan Biffl, Rick Rabiser
+    conference: "20th International Conference on Software and Systems Reuse (ICSR) 2022"
+
+  - title: "Industry Voices on Software Engineering Challenges in Cyber-Physical Production Systems Engineering"
+    link: "https://doi.org/10.1109/ETFA52439.2022.9921568"
+    authors: Kevin Feichtinger, Kristof Meixner, Felix Rinker, Istvan Koren, Holger Eichelberger, Tonja Heinemann, J&ouml;rg Holtmann, Marco Konersmann, Judith Michael, Eva-Maria Neumann, Jerome Pfeiffer, Rick Rabiser, Matthias Riebisch, Klaus Schmid
+    conference: "27th International Conference on Emerging Technologies and Factory Automation (ETFA) 2022"
+
+  - title: "It's your loss: classifying information loss during variability model roundtrip transformations"
+    link: "https://doi.org/10.1145/3546932.3546990"
+    authors: Kevin Feichtinger, Chico Sundermann, Thomas Th&uuml;m, Rick Rabiser
+    conference: "26th ACM International Systems and Software Product Line Conference (SPLC) 2022"
+    
+  - title: "Tutorial on the universal variability language"
+    link: "https://doi.org/10.1145/3546932.3547024"
+    authors: Chico Sundermann, Kevin Feichtinger, Jose A Galindo, David Benavides, Rick Rabiser, Sebastian Krieter, Thomas Th&uuml;m
+    conference: "26th ACM International Systems and Software Product Line Conference (SPLC) 2022"
+
+  - title: "Bridging the gap between academia and industry: transforming the universal variability language to pure::variants and back"
+    link: "https://doi.org/10.1145/3503229.3547056"
+    authors: Dario Romano, Kevin Feichtinger, Danilo Beuche, Uwe Ryssel, Rick Rabiser
+    conference: "26th ACM International Systems and Software Product Line Conference (SPLC) 2022"
+
+  - title: "V4rdiac: tooling for multidisciplinary delta-oriented variability management in cyber-physical production systems"
+    link: "https://doi.org/10.1145/3503229.3547028"
+    authors: Hafiyyan Sayyid Fadhlillah, Kevin Feichtinger, Philipp Bauer, Elene Kutsia, Rick Rabiser
+    conference: "26th ACM International Systems and Software Product Line Conference (SPLC) 2022"
+
+  - title: "Dynamic Product Configuration User Interface: A Vision Motivated by the Cyber-Physical Production Systems Domain"
+    link: "https://doi.org/10.1145/3571788.3571803"
+    authors: Hafiyyan Sayyid Fadhlillah, Kevin Feichtinger, Antonio Manuel Gutierrez Fernandez, Rick Rabiser
+    conference: "17th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS) 2023"
