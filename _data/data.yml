@@ -149,16 +149,6 @@ scientific_services:
       (SPLC ’22).
 
 publications:
-  - title: Supporting Feature Model Evolution by Lifting Code-Level Dependencies: A Research Preview
-    link: "https://doi.org/10.1007/978-3-030-15538-4_12"
-    authors: Daniel Hinterreiter, Kevin Feichtinger, Lukas Linsbauer, Herbert Prähofer, Paul Grünbacher
-    conference: "Requirements Engineering: Foundation for Software Quality (REFSQ) 2019"
-
-  - title: Supporting feature model evolution by suggesting constraints from code-level dependency analyses.
-    link: "https://doi.org/10.1145/3357765.3359525"
-    authors: Kevin Feichtinger, Daniel Hinterreiter, Lukas Linsbauer, Herbert Prähofer, and Paul Grünbacher
-    conference: "18th ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences (GPCE) 2019"
-
   - title: Second title of paper. An interesting one too.
     link: "#"
     authors: John E. Doe
