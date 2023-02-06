@@ -18,15 +18,15 @@ languages:
 education:
   - degree: MSc in Computer Science
     time: 2016-2019
-    university: Johannes Kepler University Linz, Austria
+    university: Johannes Kepler University Linz
 
   - degree: Erasmus Exchagne Semester
     time: 2016
-    university: Oxford Brooks University, United Kingdom
+    university: Oxford Brooks University
 
   - degree: BSc in Computer Science
     time: 2012-2016
-    university: Johannes Kepler University Linz, Austria
+    university: Johannes Kepler University Linz
 
 skills:
   - category: Programming
@@ -34,15 +34,6 @@ skills:
       - Java
       - C
       - Eclipse RCP Development
-
-  - category: Driving Licenses
-    skill:
-      - B
-      - BE
-      - C
-      - C1
-      - CE
-      - F
 
   - category: Soft
     skill:
@@ -58,25 +49,24 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  is a researcher in the LIT Cyber-Physical Systems Lab at Johannes Kepler University Linz, 
+  Austria (JKU). He received his master’s degree in software engineering from Johannes Kepler 
+  University Linz. His current research interests include variability modeling, model 
+  transformations, software evolution and software development for Cyber-Physical Production 
+  Systems (CPPS).
 
 # Experience
 experience:
-  - role: Software Engineer
+  - role: University Assistant
     time: 2020-Present
-    company: Google
+    company: Johannes Kepler University Linz, Austria
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Part of the LIT Cyber-Physical Systems Lab. Working towards transforming variability 
+      artifacts. Topic of the disseration. Teaching university classes on Systems Programming, 
+      Algorithms and Datastructures and Product Line Engineering. (Co-)Supervising multiple 
+      Student projects and Master thesis.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Java, Python, LaTeX
   
   - role: Researcher
     time: 2016-2020
