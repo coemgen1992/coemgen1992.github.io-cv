@@ -112,7 +112,7 @@ volunteering:
       (IAESTE) Austria. Taking over several roles including board member duties as Treasurer from 
       2018 - 2019.
 
-- time: 2013-2021
+  - time: 2013-2021
     role: Board Member, President, and Project leader
     company: IAESTE Linz
     details: |
@@ -120,6 +120,14 @@ volunteering:
       (IAESTE) Linz. Taking over several roles including board member duties as Vice president 
       (2014 - 2016) and President (2016 - 2018).
 
+projects:
+  - title: TECONOMY Linz 2016 - 2018
+    link: #
+    details: |
+      Part of the organization committee of the anual career fair hosted by IAESTE Linz.
+      Project lead for the inaugural TECONOMY Linz in 2016. Growing the fair form +60 companies 
+      to +80 participating companies form 2016 to 2018.
+      
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
