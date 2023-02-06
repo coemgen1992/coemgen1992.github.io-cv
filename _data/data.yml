@@ -45,7 +45,6 @@ skills:
       - Organization Skills
       - Presenation Skills
       - Negotiation Skills
-      - Negotiation Skills
 
 # Profile
 profile: |
@@ -99,8 +98,8 @@ experience:
       Two month internship in the Information Security Laboratory in Fujimino, Saitama. Studying 
       the Internet of Things communication protocols LoRaWAN. Providing contributions to scientific 
       publications.
-#    technologies_used: | 
-#      Java, Python, LaTeX
+    technologies_used: | 
+      Powerpoint, LaTeX
 
 # Volunteering
 volunteering:
@@ -129,24 +128,25 @@ projects:
       to +80 participating companies form 2016 to 2018.
 
 scientific_services:
-  - title: Journal Reviewer 
+  - title: Reviewer for the Journal of Systems and Software
     link: 
     details: |
-      Reviewer for the Journal of Systems and Software since 2022.
+      Since 2022.
 
-  - title: Conference (Sub-)Reviewer 
+  - title: (Sub-)Reviewer for the Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)
     link: #
     details: |
-      15th International Working Conference on Variability Modelling of Software-
-      Intensive Systems (VaMoS’21).
-      25th ACM International Systems and Software Product Line Conference
-      (SPLC ’21).
-      16th International Working Conference on Variability Modelling of Software-Intensive
-      Systems (VaMoS’22).
-      34th International Conference on Software Engineering & Knowledge Engineering
-      (SEKE’22).
-      26th ACM International Systems and Software Product Line Conference
-      (SPLC ’22).
+      In 2021 and 2022
+  
+  - title: (Sub-)Reviewer for the ACM International Systems and Software Product Line Conference (SPLC)
+    link: #
+    details: |
+      In 2021 and 2022
+
+  - title: (Sub-)Reviewer for the International Conference on Software Engineering & Knowledge Engineering (SEKE)
+    link: #
+    details: |
+      In 2022
 
 publications:
   - title: "Supporting Feature Model Evolution by Lifting Code-Level Dependencies: A Research Preview"
@@ -229,7 +229,7 @@ publications:
     authors: Hafiyyan Sayyid Fadhlillah, Kevin Feichtinger, Kristof Meixner, Lisa Sonnleithner, Rick Rabiser, Alois Zoitl
     conference: "16th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS) 2022"
 
-  - title: "20th International Conference on Software and Systems Reuse, ICSR 2022"
+  - title: "Evolution Support for Custom Variability Artifacts Using Feature Models: A Study in the Cyber-Physical Production Systems Domain"
     link: "https://doi.org/10.1007/978-3-031-08129-3_5"
     authors: Kevin Feichtinger, Kristof Meixner, Stefan Biffl, Rick Rabiser
     conference: "20th International Conference on Software and Systems Reuse (ICSR) 2022"
