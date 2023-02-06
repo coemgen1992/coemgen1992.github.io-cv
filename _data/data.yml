@@ -7,8 +7,8 @@ contact:
   email: kevin.feichtinger@asak.at
   github: coemgen1992
   linkedin: kevin-feichtinger
-  phone: 
-  gitlab: 
+# phone: 
+# gitlab: 
   twitter: k_feichtinger
 
 languages:
@@ -34,7 +34,7 @@ skills:
       - Java
       - C
       - Eclipse RCP Development
-      - 
+
   - category: Driving Licenses
     skill:
       - B
@@ -43,6 +43,7 @@ skills:
       - C1
       - CE
       - F
+
   - category: Soft
     skill:
       - Project Management
