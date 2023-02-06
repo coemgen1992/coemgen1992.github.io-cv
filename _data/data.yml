@@ -149,7 +149,7 @@ scientific_services:
       (SPLC ’22).
 
 publications:
-  - title: Supporting Feature Model Evolution by Lifting Code-Level Dependencies: A Research Preview
+  - title: "Supporting Feature Model Evolution by Lifting Code-Level Dependencies: A Research Preview"
     link: "https://doi.org/10.1007/978-3-030-15538-4_12"
     authors: Daniel Hinterreiter, Kevin Feichtinger, Lukas Linsbauer, Herbert Pr&auml;hofer, Paul Gr&uuml;nbacher
     conference: "Requirements Engineering: Foundation for Software Quality (REFSQ) 2019"
