@@ -99,8 +99,8 @@ experience:
       Two month internship in the Information Security Laboratory in Fujimino, Saitama. Studying 
       the Internet of Things communication protocols LoRaWAN. Providing contributions to scientific 
       publications.
-    technologies_used: | 
-      Java, Python, LaTeX
+#    technologies_used: | 
+#      Java, Python, LaTeX
 
 publications:
   - title: Random title of paper. An interesting one.
