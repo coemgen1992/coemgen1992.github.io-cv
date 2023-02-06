@@ -127,7 +127,27 @@ projects:
       Part of the organization committee of the anual career fair hosted by IAESTE Linz.
       Project lead for the inaugural TECONOMY Linz in 2016. Growing the fair form +60 companies 
       to +80 participating companies form 2016 to 2018.
-      
+
+scientific services:
+  - title: Journal Reviewer 
+    link: 
+    details: |
+      Reviewer for the Journal of Systems and Software since 2022.
+
+  - title: Conference (Sub-)Reviewer 
+    link: #
+    details: |
+      15th International Working Conference on Variability Modelling of Software-
+      Intensive Systems (VaMoS’21).
+      25th ACM International Systems and Software Product Line Conference
+      (SPLC ’21).
+      16th International Working Conference on Variability Modelling of Software-Intensive
+      Systems (VaMoS’22).
+      34th International Conference on Software Engineering & Knowledge Engineering
+      (SEKE’22).
+      26th ACM International Systems and Software Product Line Conference
+      (SPLC ’22).
+
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
@@ -138,16 +158,3 @@ publications:
     link: "#"
     authors: John E. Doe
     conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
