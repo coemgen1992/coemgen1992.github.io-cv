@@ -159,65 +159,65 @@ publications:
     authors: Kevin Feichtinger, Daniel Hinterreiter, Lukas Linsbauer, Herbert Pr&auml;hofer, and Paul Gr&uuml;nbacher
     conference: "18th ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences (GPCE) 2019"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "Variability Model Transformations: Towards Unifying Variability Modeling"
+    link: "https://doi.org/10.1109/SEAA51224.2020.00037"
+    authors: Kevin Feichtinger and Rick Rabiser
+    conference: "46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA) 2020"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "Variability Transformation from Industrial Engineering Artifacts: An Example in the Cyber-Physical Production Systems Domain"
+    link: "https://doi.org/10.1145/3382026.3425770"
+    authors: Kevin Feichtinger, Kristof Meixner, Rick Rabiser, and Stefan Biffl.
+    conference: "24th ACM International Systems and Software Product Line Conference (SPLC) 2020"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "Towards Transforming Variability Models: Usage Scenarios, Required Capabilities and Challenges"
+    link: "https://doi.org/10.1145/3382026.3425768"
+    authors: Kevin Feichtinger and Rick Rabiser
+    conference: "24th ACM International Systems and Software Product Line Conference (SPLC) 2020"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "Supporting feature-oriented evolution in industrial automation product lines"
+    link: "https://doi.org/10.1177/1063293X20958930"
+    authors: Daniel Hinterreiter, Lukas Linsbauer, Kevin Feichtinger, Herbert Pr&auml;hofer, Paul Gr&uuml;nbacher
+    conference: "Concurrent Engineering: Research and Applications, 2020"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "TRAVART: An Approach for Transforming Variability Models"
+    link: "https://doi.org/10.1145/3442391.3442400"
+    authors: Kevin Feichtinger, Johann Stöbich, Dario Romano, Rick Rabiser
+    conference: "15th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS) 2021"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "Guiding feature model evolution by lifting code-level dependencies"
+    link: "https://doi.org/10.1016/j.cola.2021.101034"
+    authors: Kevin Feichtinger, Daniel Hinterreiter, Lukas Linsbauer, Herbert Pr&auml;hofer, Paul Gr&uuml;nbacher
+    conference: Journal of Computer Languages, 2021
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "A Systematic Study as Foundation for a Variability Modeling Body of Knowledge"
+    link: "https://doi.org/10.1109/SEAA53835.2021.00012"
+    authors: Kevin Feichtinger, Kristof Meixner, Rick Rabiser, Stefan Biffl
+    conference: "47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA) 2021"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "A reusable set of real-world product line case studies for comparing variability models in research and practice"
+    link: "https://doi.org/10.1145/3461002.3473946"
+    authors: Kristof Meixner, Kevin Feichtinger, Rick Rabiser, Stefan Biffl
+    conference: "25th ACM International Systems and Software Product Line Conference (SPLC) 2021"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "Yet another textual variability language?: a community effort towards a unified language"
+    link: "https://doi.org/10.1145/3461001.3471145"
+    authors: Chico Sundermann, Kevin Feichtinger, Dominik Engelhardt, Rick Rabiser, Thomas Th&uuml;m
+    conference: "25th ACM International Systems and Software Product Line Conference (SPLC) 2021"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "Towards heterogeneous multi-dimensional variability modeling in cyber-physical production systems"
+    link: "https://doi.org/10.1145/3461002.3473941"
+    authors: Hafiyyan Sayyid Fadhlillah, Kevin Feichtinger, Lisa Sonnleithner, Rick Rabiser, Alois Zoitl
+    conference: "25th ACM International Systems and Software Product Line Conference (SPLC) 2021"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "How flexible must a transformation approach for variability models and custom variability representations be?"
+    link: "https://doi.org/10.1145/3461002.3473945"
+    authors: Kevin Feichtinger and Rick Rabiser
+    conference: "25th ACM International Systems and Software Product Line Conference (SPLC) 2021"
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: "A flexible approach for transforming variability models"
+    link: "https://doi.org/10.1145/3461002.3473069"
+    authors: Kevin Feichtinger
+    conference: "25th ACM International Systems and Software Product Line Conference (SPLC) 2021"
 
   - title: Second title of paper. An interesting one too.
     link: "#"
