@@ -102,6 +102,24 @@ experience:
 #    technologies_used: | 
 #      Java, Python, LaTeX
 
+# Volunteering
+volunteering:
+  - time: 2018-2020
+    role: Board Member, Treasurer, and Internal Auditor
+    company: IAESTE Austria
+    details: |
+      Member of the International Association for the Exchange of Students for Technical Experience 
+      (IAESTE) Austria. Taking over several roles including board member duties as Treasurer from 
+      2018 - 2019.
+
+- time: 2013-2021
+    role: Board Member, President, and Project leader
+    company: IAESTE Linz
+    details: |
+      Member of the International Association for the Exchange of Students for Technical Experience 
+      (IAESTE) Linz. Taking over several roles including board member duties as Vice president 
+      (2014 - 2016) and President (2016 - 2018).
+
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
@@ -125,13 +143,3 @@ projects:
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
