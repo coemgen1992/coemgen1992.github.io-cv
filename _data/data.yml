@@ -69,16 +69,38 @@ experience:
       Java, Python, LaTeX
   
   - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+    time: 2019-2020
+    company: Johannes Kepler University Linz, Austria
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Part of Module 2 Multi-Modeling and Evolution in Software Ecosystems in the Christian 
+      Doppler Laboratory Monitoring and Evolution of Very-Large-Scale Software Systems. Integrating
+      a static code analysis tool chain into a feature-oriented software tool. Topic of the Master 
+      thesis. Working on case studies for the evaluation of the static code analysis integration. 
+      Providing contributions to scientific publications.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Java, Kotlin, Eclipse RCP Development, IEC 61131-3, LaTeX
+
+  - role: Student Researcher
+    time: 2017-2019
+    company: Johannes Kepler University Linz, Austria
+    details: |
+      Part of Module 2 Multi-Modeling and Evolution in Software Ecosystems in the Christian 
+      Doppler Laboratory Monitoring and Evolution of Very-Large-Scale Software Systems. Mainly 
+      involved in the development of feature-oriented software tools and their integration in 
+      exisitng environments. Working on case studies for the evaluation of the software tool 
+      and providing contributions to scientific publications.
+    technologies_used: | 
+      Java, Kotlin, Eclipse RCP Development, IEC 61131-3, LaTeX
+
+  - role: Research Trainee
+    time: Summer 2017
+    company: KDDI Reasearch, Inc., Japan
+    details: |
+      Two month internship in the Information Security Laboratory in Fujimino, Saitama. Studying 
+      the Internet of Things communication protocols LoRaWAN. Providing contributions to scientific 
+      publications.
+    technologies_used: | 
+      Java, Python, LaTeX
 
 publications:
   - title: Random title of paper. An interesting one.
