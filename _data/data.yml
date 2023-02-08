@@ -1,5 +1,5 @@
 name: DI Kevin Feichtinger
-support_dark_mode: true
+support_dark_mode: false
 fork: false
 
 # Sidebar
@@ -17,19 +17,19 @@ languages:
 
 education:
   - degree: PhD in Computer Science
-    time: 2020-Present
+    time: 2020 &ndash; Present
     university: Johannes Kepler University Linz
 
   - degree: MSc in Computer Science
-    time: 2016-2019
+    time: 2016 &ndash; 2019
     university: Johannes Kepler University Linz
 
-  - degree: Erasmus Exchagne Semester
+  - degree: Erasmus exchagne Semester
     time: 2016
     university: Oxford Brooks University
 
   - degree: BSc in Computer Science
-    time: 2012-2016
+    time: 2012 &ndash; 2016
     university: Johannes Kepler University Linz
 
 skills:
@@ -43,61 +43,61 @@ skills:
     skill:
       - Project Management
       - Time Management
-      - Leadershp
+      - Leadership
       - Teamwork
-      - Conflict Managment
+      - Conflict Management
       - Organization Skills
-      - Presenation Skills
+      - Presentation Skills
       - Negotiation Skills
 
 # Profile
 profile: |
-  is a researcher in the LIT Cyber-Physical Systems Lab at Johannes Kepler University Linz, 
-  Austria (JKU). He received his master’s degree in software engineering from Johannes Kepler 
-  University Linz. His current research interests include variability modeling, model 
-  transformations, software evolution and software development for Cyber-Physical Production 
-  Systems (CPPS).
+  Kevin Feichtinger is a researcher in the LIT Cyber-Physical Systems Lab at Johannes Kepler 
+  University Linz, Austria (JKU). He received his master’s degree in software engineering 
+  from Johannes Kepler University Linz. His current research interests include variability 
+  modeling, model transformations, software evolution and software development for Cyber-
+  Physical Production Systems (CPPS).
 
 # Experience
 experience:
   - role: University Assistant
-    time: 2020-Present
+    time: 2020 &ndash; Present
     company: Johannes Kepler University Linz, Austria
     details: |
       Part of the LIT Cyber-Physical Systems Lab. Working towards transforming variability 
-      artifacts. Topic of the disseration. Teaching university classes on Systems Programming, 
-      Algorithms and Datastructures and Product Line Engineering. (Co-)Supervising multiple 
-      student projects and Master thesis.
+      artifacts, which is also the topic of the dissertation. Teaching university courses on 
+      systems programming, algorithms and data structures, and product line engineering. 
+      (Co-)Supervising multiple student projects and master thesis.
     technologies_used: | 
       Java, Python, LaTeX
   
   - role: Researcher
-    time: 2019-2020
+    time: 2019 &ndash; 2020
     company: Johannes Kepler University Linz, Austria
     details: |
       Part of Module 2 Multi-Modeling and Evolution in Software Ecosystems in the Christian 
       Doppler Laboratory Monitoring and Evolution of Very-Large-Scale Software Systems. Integrating
-      a static code analysis tool chain into a feature-oriented software tool. Topic of the Master 
-      thesis. Working on case studies for the evaluation of the static code analysis integration. 
-      Providing contributions to scientific publications.
+      a static code analysis tool chain into a feature-oriented software tool, which was the topic of 
+      the master thesis. Working on case studies for the evaluation of the static code analysis 
+      integration. Providing contributions to scientific publications.
     technologies_used: | 
       Java, Kotlin, Eclipse RCP Development, IEC 61131-3, LaTeX
 
   - role: Student Researcher
-    time: 2017-2019
+    time: 2017 &ndash; 2019
     company: Johannes Kepler University Linz, Austria
     details: |
       Part of Module 2 Multi-Modeling and Evolution in Software Ecosystems in the Christian 
       Doppler Laboratory Monitoring and Evolution of Very-Large-Scale Software Systems. Mainly 
       involved in the development of feature-oriented software tools and their integration in 
-      exisitng environments. Working on case studies for the evaluation of the software tool 
+      existing environments. Working on case studies for the evaluation of the software tool 
       and providing contributions to scientific publications.
     technologies_used: | 
       Java, Kotlin, Eclipse RCP Development, IEC 61131-3, LaTeX
 
   - role: Research Trainee
     time: Summer 2017
-    company: KDDI Reasearch, Inc., Japan
+    company: KDDI Research, Inc., Japan
     details: |
       Two month internship in the Information Security Laboratory in Fujimino, Saitama. Studying 
       the Internet of Things communication protocol LoRaWAN. Providing contributions to scientific 
@@ -105,50 +105,50 @@ experience:
 
 # Volunteering
 volunteering:
-  - time: 2018-2020
+  - time: 2018 &ndash; 2020
     role: Board Member, Treasurer, and Internal Auditor
     company: IAESTE Austria
     details: |
       Member of the International Association for the Exchange of Students for Technical Experience 
       (IAESTE) Austria. Taking over several roles including board member duties as Treasurer from 
-      2018 - 2019.
+      2018 &ndash; 2019.
 
-  - time: 2013-2021
+  - time: 2013 &ndash; 2021
     role: Board Member, President, and Project leader
     company: IAESTE Linz
     details: |
       Member of the International Association for the Exchange of Students for Technical Experience 
       (IAESTE) Linz. Taking over several roles including board member duties as Vice president 
-      (2014 - 2016) and President (2016 - 2018).
+      (2014 &ndash; 2016) and President (2016 &ndash; 2018).
 
 projects:
-  - title: TECONOMY Linz 2016 - 2018
+  - title: TECONOMY Linz 2016 &ndash; 2018
     link: #
     details: |
-      Part of the organization committee of the anual career fair hosted by IAESTE Linz.
-      Project lead for the inaugural TECONOMY Linz in 2016. Growing the fair form +60 companies 
-      to +80 participating companies form 2016 to 2018.
+      Part of the organization committee of the annual career fair hosted by IAESTE Linz.
+      Project lead for the inaugural TECONOMY Linz in 2016. Growing the fair form more than 
+      60 companies to more than 80 participating companies.
 
 scientific_services:
   - title: Reviewer for the Journal of Systems and Software
     link: 
     details: |
-      Since 2022.
+      since 2022.
 
   - title: (Sub-)Reviewer for the Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)
     link: #
     details: |
-      In 2021 and 2022
+      in 2021 and 2022
   
   - title: (Sub-)Reviewer for the ACM International Systems and Software Product Line Conference (SPLC)
     link: #
     details: |
-      In 2021 and 2022
+      in 2021 and 2022
 
   - title: (Sub-)Reviewer for the International Conference on Software Engineering & Knowledge Engineering (SEKE)
     link: #
     details: |
-      In 2022
+      in 2022
 
 publications:
   - title: "Dynamic Product Configuration User Interface: A Vision Motivated by the Cyber-Physical Production Systems Domain"
