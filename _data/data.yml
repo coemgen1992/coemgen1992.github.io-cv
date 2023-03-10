@@ -16,7 +16,7 @@ languages:
   - idiom: English
 
 education:
-  - degree: PhD in Computer Science
+  - degree: Ph.D. in Computer Science
     time: 2020 &ndash; Present
     university: Johannes Kepler University Linz
 
@@ -52,11 +52,11 @@ skills:
 
 # Profile
 profile: |
-  Kevin Feichtinger is a researcher in the LIT Cyber-Physical Systems Lab at Johannes Kepler 
-  University Linz, Austria (JKU). He received his master’s degree in software engineering 
-  from Johannes Kepler University Linz. His current research interests include variability 
-  modeling, model transformations, software evolution and software development for Cyber-
-  Physical Production Systems (CPPS).
+  Kevin Feichtinger is a PhD student at the LIT Cyber-Physical Systems Lab at Johannes Kepler 
+  University Linz, Austria (JKU). He completed his master's degree in software engineering at 
+  JKU in 2019. His current research interests include variability modeling, model 
+  transformations, software evolution, and software development for Cyber-Physical Production 
+  Systems (CPPS).
 
 # Experience
 experience:
