@@ -131,7 +131,7 @@ projects:
 
 scientific_services:
   - title: Track committee Member for Technical Tracks Industrial Digitalization, Digital Twins in Industrial Applications at INDIN 2023
-    link: https://2023.ieee-indin.org/files/cfp/tt/CfP_TT07_INDIN23.pdf
+    link: "https://2023.ieee-indin.org/files/cfp/tt/CfP_TT07_INDIN23.pdf"
     details: |
       2023.
       
@@ -156,6 +156,11 @@ scientific_services:
       in 2022
 
 publications:
+  - title: "Software in Cyberphysischen Produktionssystemen: Herausforderungen zur Umsetzung in der Industrie"
+    link: "https://doi.org/10.17560/atp.v65i4.2646"
+    authors: Kevin Feichtinger, Kristof Meixner, Felix Rinker, István Koren, Holger Eichelberger, Tonja Heinemann, Jörg Holtmann, Marco Konersmann, Judith Michael, Eva-Maria Neumann, Jérôme Pfeiffer, Rick Rabiser, Matthias Riebisch, Klaus Schmid
+    conference: "Bd. 65 Nr. 4 (2023): atp magazin"
+    
   - title: "Dynamic Product Configuration User Interface: A Vision Motivated by the Cyber-Physical Production Systems Domain"
     link: "https://doi.org/10.1145/3571788.3571803"
     authors: Hafiyyan Sayyid Fadhlillah, Kevin Feichtinger, Antonio Manuel Gutierrez Fernandez, Rick Rabiser
