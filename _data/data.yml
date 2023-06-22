@@ -170,6 +170,11 @@ publications:
     link: "https://doi.org/10.17560/atp.v65i4.2646"
     authors: Kevin Feichtinger, Kristof Meixner, Felix Rinker, István Koren, Holger Eichelberger, Tonja Heinemann, Jörg Holtmann, Marco Konersmann, Judith Michael, Eva-Maria Neumann, Jérôme Pfeiffer, Rick Rabiser, Matthias Riebisch, Klaus Schmid
     conference: "Bd. 65 Nr. 4 (2023): atp magazin"
+
+  - title: "It's Your Loss: Classifying Information Loss During Variability Model Roundtrip Transformations"
+    link: "https://dl.gi.de/items/00f07213-c391-4a55-9d8d-50645bbcd572"
+    authors: Kevin Feichtinger, Chico Sundermann, Thomas Th&uuml;m, Rick Rabiser
+    conference: "Software Engineering 2023, Fachtagung des GI-Fachbereichs Softwaretechnik, 20.-24. Februar 2023, Paderborn"
     
   - title: "Dynamic Product Configuration User Interface: A Vision Motivated by the Cyber-Physical Production Systems Domain"
     link: "https://doi.org/10.1145/3571788.3571803"
