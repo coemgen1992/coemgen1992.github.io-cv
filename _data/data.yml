@@ -123,7 +123,7 @@ volunteering:
 
 projects:
   - title: TECONOMY Linz 2016 &ndash; 2018
-    link: #
+    link: "https://www.iaeste.at/studierende/teconomy/"
     details: |
       Part of the organization committee of the annual career fair hosted by IAESTE Linz.
       Project lead for the inaugural TECONOMY Linz in 2016. Growing the fair form more than 
@@ -141,17 +141,17 @@ scientific_services:
       2023.
       
   - title: Reviewer for the Special Session on Software Engineering for Cyber-Physical Production Systems (SECPPS) at ETFA 2023
-    link: 
+    link: #
     details: |
       2023.
 
   - title: Reviewer for the Work-In-Progress Session at ETFA 2023
-    link: 
+    link: #
     details: |
       2023.
       
   - title: Reviewer for the Journal of Systems and Software
-    link: 
+    link: #
     details: |
       since 2022.
 
