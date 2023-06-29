@@ -52,11 +52,11 @@ skills:
 
 # Profile
 profile: |
-  Kevin Feichtinger is a PhD student at the LIT Cyber-Physical Systems Lab at Johannes Kepler 
-  University Linz, Austria (JKU). He completed his master's degree in software engineering at 
-  JKU in 2019. His current research interests include variability modeling, model 
-  transformations, software evolution, and software development for Cyber-Physical Production 
-  Systems (CPPS).
+  Kevin Feichtinger is a Ph.D. student at the LIT Cyber-Physical Systems Lab at Johannes Kepler 
+  University Linz, Austria (JKU). He completed his master's degree in computer science major 
+  software engineering at JKU in 2019. His current research interests include software product 
+  lines, variability modeling, model transformations, software evolution, software consistency, 
+  and software development for Cyber-Physical Production Systems (CPPS).
 
 # Experience
 experience:
@@ -77,7 +77,7 @@ experience:
     details: |
       Part of Module 2 Multi-Modeling and Evolution in Software Ecosystems in the Christian 
       Doppler Laboratory Monitoring and Evolution of Very-Large-Scale Software Systems. Integrating
-      a static code analysis tool chain into a feature-oriented software tool, which was the topic of 
+      a static code analysis toolchain into a feature-oriented software tool was the topic of 
       the master thesis. Working on case studies for the evaluation of the static code analysis 
       integration. Providing contributions to scientific publications.
     technologies_used: | 
@@ -89,7 +89,7 @@ experience:
     details: |
       Part of Module 2 Multi-Modeling and Evolution in Software Ecosystems in the Christian 
       Doppler Laboratory Monitoring and Evolution of Very-Large-Scale Software Systems. Mainly 
-      involved in the development of feature-oriented software tools and their integration in 
+      involved in the development of feature-oriented software tools and their integration into 
       existing environments. Working on case studies for the evaluation of the software tool 
       and providing contributions to scientific publications.
     technologies_used: | 
@@ -99,7 +99,7 @@ experience:
     time: Summer 2017
     company: KDDI Research, Inc., Japan
     details: |
-      Two month internship in the Information Security Laboratory in Fujimino, Saitama. Studying 
+      Two-month internship in the Information Security Laboratory in Fujimino, Saitama. Studying 
       the Internet of Things communication protocol LoRaWAN. Providing contributions to scientific 
       publications.
 
