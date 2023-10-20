@@ -56,7 +56,7 @@ skills:
 # Profile
 profile: |
   Kevin Feichtinger is a Ph.D. student at the LIT Cyber-Physical Systems Lab at Johannes Kepler 
-  University Linz, Austria (JKU). He completed his PhD degree in computer science major 
+  University Linz, Austria (JKU). He completed his Ph.D. degree in computer science major 
   software engineering at JKU in 2023. His current research interests include software product 
   lines, variability modeling, model transformations, software evolution, software consistency, 
   and software development for Cyber-Physical Production Systems (CPPS).
@@ -143,7 +143,7 @@ scientific_services:
     details: |
       2024.
 
-  - title: Program Committee Member of the 6th International Workshop on Variability and Evolution of Software-Intensive Systems at SPLC 2023
+  - title: Program Committee Member of the 6th International Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution) at SPLC 2023
     link: "https://sites.google.com/view/varivolution-2023/"
     details: |
       2023.
