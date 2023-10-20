@@ -17,7 +17,7 @@ languages:
 
 education:
   - degree: Ph.D. in Computer Science
-    time: 2020 &ndash; Present
+    time: 2020 &ndash; 2023
     university: Johannes Kepler University Linz
 
   - degree: MSc in Computer Science
@@ -56,15 +56,15 @@ skills:
 # Profile
 profile: |
   Kevin Feichtinger is a Ph.D. student at the LIT Cyber-Physical Systems Lab at Johannes Kepler 
-  University Linz, Austria (JKU). He completed his master's degree in computer science major 
-  software engineering at JKU in 2019. His current research interests include software product 
+  University Linz, Austria (JKU). He completed his PhD degree in computer science major 
+  software engineering at JKU in 2023. His current research interests include software product 
   lines, variability modeling, model transformations, software evolution, software consistency, 
   and software development for Cyber-Physical Production Systems (CPPS).
 
 # Experience
 experience:
   - role: University Assistant
-    time: 2020 &ndash; Present
+    time: 2020 &ndash; 2023
     company: Johannes Kepler University Linz, Austria
     details: |
       Part of the LIT Cyber-Physical Systems Lab. Working towards transforming variability 
@@ -133,6 +133,16 @@ projects:
       60 companies to more than 80 participating companies.
 
 scientific_services:
+  - title: Programm Committee Member of the 6th International Workshop on Languages for Modelling Variability (MODEVAR 2024)
+    link: "https://modevar.github.io/"
+    details: |
+      2024.
+
+  - title: Artifact Programm Committee Member of the 18th Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)
+    link: "https://vamos2024.inf.unibe.ch/"
+    details: |
+      2024.
+
   - title: Program Committee Member of the 6th International Workshop on Variability and Evolution of Software-Intensive Systems at SPLC 2023
     link: "https://sites.google.com/view/varivolution-2023/"
     details: |
@@ -174,6 +184,21 @@ scientific_services:
       in 2022
 
 publications:
+  - title: "Maturity Evaluation of Domain-Specific Language Ecosystems for Cyber-Physical Production Systems"
+    link: "https://doi.org/10.1109/ETFA54631.2023.10275624"
+    authors: Sandra Greiner, Bianca Wiesmayr, Kevin Feichtinger, Kristof Meixner, Marco Konersmann, Jérôme Pfeiffer, Michael Oberlehner, David Schmalzing, Andreas Wortmann, Bernhard Rumpe, Rick Rabiser, Alois Zoitl
+    conference: "28th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA) 2023"
+
+  - title: "Second Tutorial on the Universal Variability Language"
+    link: "https://doi.org/10.1145/3579027.3609002"
+    authors: Sebastian Krieter, Kevin Feichtinger, Jose A. Galindo, David Benavides, Rick Rabiser, Chico Sundermann, Thomas Th&uuml;m
+    conference: "27th ACM International Systems and Software Product Line Conference (SPLC) 2023"
+
+  - title: "UVLParser: Extending UVL with Language Levels and Conversion Strategies"
+    link: "https://doi.org/10.1145/3579028.3609013"
+    authors: Chico Sundermann, Stefan Vill, Thomas Th&uuml;m, Kevin Feichtinger, Prankur Agarwal, Rick Rabiser, Jose A. Galindo, David Benavides
+    conference: "27th ACM International Systems and Software Product Line Conference (SPLC) 2023"
+
   - title: "Software in Cyberphysischen Produktionssystemen: Herausforderungen zur Umsetzung in der Industrie"
     link: "https://doi.org/10.17560/atp.v65i4.2646"
     authors: Kevin Feichtinger, Kristof Meixner, Felix Rinker, István Koren, Holger Eichelberger, Tonja Heinemann, Jörg Holtmann, Marco Konersmann, Judith Michael, Eva-Maria Neumann, Jérôme Pfeiffer, Rick Rabiser, Matthias Riebisch, Klaus Schmid
@@ -201,7 +226,7 @@ publications:
 
   - title: "Tutorial on the universal variability language"
     link: "https://doi.org/10.1145/3546932.3547024"
-    authors: Chico Sundermann, Kevin Feichtinger, Jose A Galindo, David Benavides, Rick Rabiser, Sebastian Krieter, Thomas Th&uuml;m
+    authors: Chico Sundermann, Kevin Feichtinger, Jose A. Galindo, David Benavides, Rick Rabiser, Sebastian Krieter, Thomas Th&uuml;m
     conference: "26th ACM International Systems and Software Product Line Conference (SPLC) 2022"
   
   - title: "It's your loss: classifying information loss during variability model roundtrip transformations"
