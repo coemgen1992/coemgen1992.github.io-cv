@@ -132,7 +132,12 @@ projects:
       Project lead for the inaugural TECONOMY Linz in 2016. Growing the fair from more than 
       60 companies to more than 80 participating companies.
 
-scientific_services:
+scientific_services: 
+  - title: Programm Committee Member of the 28th ACM International Systems and Software Product Line Conference (SPLC 2024)
+    link: "https://2024.splc.net/"
+    details: |
+      2024.
+      
   - title: Artifact Programm Committee Member of the 28th ACM International Systems and Software Product Line Conference (SPLC 2024)
     link: "https://2024.splc.net/"
     details: |
