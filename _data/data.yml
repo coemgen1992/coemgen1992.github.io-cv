@@ -55,11 +55,12 @@ skills:
 
 # Profile
 profile: |
-  Kevin Feichtinger is a Ph.D. student at the LIT Cyber-Physical Systems Lab at Johannes Kepler 
-  University Linz, Austria (JKU). He completed his Ph.D. degree in computer science major 
-  software engineering at JKU in 2023. His current research interests include software product 
+  Kevin Feichtinger is I am a Postdoctoral Researcher at the Dependability of Software-intensive 
+  Systems Group at Karlsruhe Institute of Technology, Germany. He completed his Ph.D. studies in 
+  computer science major software engineering at the LIT Cyber-Physical Systems Lab at Johannes 
+  Kepler University Linz in 2023. His current research interests include software product 
   lines, variability modeling, model transformations, software evolution, software consistency, 
-  and software development for Cyber-Physical Production Systems (CPPS).
+  and software development for Cyber-Physical Systems (CPS).
 
 # Experience
 experience:
