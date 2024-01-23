@@ -64,6 +64,17 @@ profile: |
 
 # Experience
 experience:
+  - role: Postdoctoral Researcher 
+    time: 2024 &ndash; Present
+    company: Karlsruhe Institute of Technology, Germany
+    details: |
+      Part of the Dependability of Software-intensive Systems Group. Working in the 
+      Collaborative Research Centre Convide on the consistency in the view-based 
+      development of Cyber-Physical Systems. Giving a lecture on software product 
+      line engineering.
+    technologies_used: | 
+      Java, LaTeX
+      
   - role: University Assistant
     time: 2020 &ndash; 2023
     company: Johannes Kepler University Linz, Austria
