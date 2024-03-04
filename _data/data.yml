@@ -145,6 +145,11 @@ projects:
       60 companies to more than 80 participating companies.
 
 scientific_services: 
+  - title: Organizer of the Special Session on Software Engineering for Cyber-Physical Production Systems (SECPPS) at the IEEE International Conference on Emerging Technologies and Factory Automation
+    link: "https://2024.ieee-etfa.org/special-sessions/software_engineering_for_cyber_physical_production_systems/"
+    details: |
+      2024.
+      
   - title: Programm Committee Member of the 28th ACM International Systems and Software Product Line Conference (SPLC 2024)
     link: "https://2024.splc.net/"
     details: |
@@ -206,6 +211,16 @@ scientific_services:
       in 2022
 
 publications:
+  - title: "Variability modeling of products, processes, and resources in cyber-physical production systems engineering"
+    link: "https://doi.org/10.1016/j.jss.2024.112007"
+    authors: Kristof Meixner, Kevin Feichtinger, Hafiyyan Sayyid Fadhlillah, Sandra Greiner, Hannes Marcher, Rick Rabiser, Stefan Biffl
+    conference: Journal of Systems and Software, 2024
+
+  - title: "On Configuration Sequences in Feature Models"
+    link: "https://doi.org/10.1145/3634713.3634730"
+    authors: Kristof Meixner, Kevin Feichtinger, Sandra Greiner, Rick Rabiser
+    conference: "18th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS) 2024"
+  
   - title: "Maturity Evaluation of Domain-Specific Language Ecosystems for Cyber-Physical Production Systems"
     link: "https://doi.org/10.1109/ETFA54631.2023.10275624"
     authors: Sandra Greiner, Bianca Wiesmayr, Kevin Feichtinger, Kristof Meixner, Marco Konersmann, Jérôme Pfeiffer, Michael Oberlehner, David Schmalzing, Andreas Wortmann, Bernhard Rumpe, Rick Rabiser, Alois Zoitl
