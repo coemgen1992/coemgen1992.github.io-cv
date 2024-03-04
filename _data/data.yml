@@ -216,6 +216,11 @@ publications:
     authors: Kristof Meixner, Kevin Feichtinger, Hafiyyan Sayyid Fadhlillah, Sandra Greiner, Hannes Marcher, Rick Rabiser, Stefan Biffl
     conference: Journal of Systems and Software, 2024
 
+  - title: "Variabilitätsartefakte vergleichen leicht gemacht"
+    link: "https://www.yumpu.com/de/document/view/68630908/it-nachwuchsforschung-in-osterreich"
+    authors: Kevin Feichtinger
+    conference: OCG Journal, 2024
+
   - title: "On Configuration Sequences in Feature Models"
     link: "https://doi.org/10.1145/3634713.3634730"
     authors: Kristof Meixner, Kevin Feichtinger, Sandra Greiner, Rick Rabiser
