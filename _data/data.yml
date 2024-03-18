@@ -211,6 +211,11 @@ scientific_services:
       in 2022
 
 publications:
+  - title: "On the Challenges of Transforming UVL to IVML"
+    link: "https://doi.org/10.48550/arXiv.2403.01952"
+    authors: Prankur Agarwal, Kevin Feichtinger, Klaus Schmid, Holger Eichelberger, Rick Rabiser
+    conference: "6th International Workshop on Languages for Modelling Variability (MODEVAR'24), co-located with 18th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS) 2024"
+    
   - title: "Variability modeling of products, processes, and resources in cyber-physical production systems engineering"
     link: "https://doi.org/10.1016/j.jss.2024.112007"
     authors: Kristof Meixner, Kevin Feichtinger, Hafiyyan Sayyid Fadhlillah, Sandra Greiner, Hannes Marcher, Rick Rabiser, Stefan Biffl
