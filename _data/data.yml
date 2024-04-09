@@ -145,6 +145,11 @@ projects:
       60 companies to more than 80 participating companies.
 
 scientific_services: 
+  - title: Organizer of the 7th International Workshop on Languages for Modelling Variability (MODEVAR 2024) at the 28th ACM International Systems and Software Product Line Conference (SPLC 2024)
+    link: "https://modevar.github.io/"
+    details: |
+      2024.
+      
   - title: Organizer of the Special Session on Software Engineering for Cyber-Physical Production Systems (SECPPS) at the IEEE International Conference on Emerging Technologies and Factory Automation
     link: "https://2024.ieee-etfa.org/special-sessions/software_engineering_for_cyber_physical_production_systems/"
     details: |
@@ -155,7 +160,12 @@ scientific_services:
     details: |
       2024.
       
-  - title: Artifact Programm Committee Member of the 28th ACM International Systems and Software Product Line Conference (SPLC 2024)
+  - title: Artifact Evaluation Track Programm Committee Member of the 28th ACM International Systems and Software Product Line Conference (SPLC 2024)
+    link: "https://2024.splc.net/"
+    details: |
+      2024.
+      
+  - title: Demonstrations and Tools Track Committee Member of the 28th ACM International Systems and Software Product Line Conference (SPLC 2024)
     link: "https://2024.splc.net/"
     details: |
       2024.
