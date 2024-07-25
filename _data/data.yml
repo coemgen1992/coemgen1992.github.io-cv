@@ -145,6 +145,16 @@ projects:
       60 companies to more than 80 participating companies.
 
 scientific_services: 
+  - title: Workshop Co-Chair at the Software Engineering Conference 2025 (SE 2025)
+    link: "https://se2025.sdq.kastel.kit.edu/"
+    details: |
+      2025.
+
+  - title: Reviewer for the ACM Transactions on Software Engineering and Methodology (TOSEM)
+    link: #
+    details: |
+      since 2024.
+      
   - title: Organizer of the 7th International Workshop on Languages for Modelling Variability (MODEVAR 2024) at the 28th ACM International Systems and Software Product Line Conference (SPLC 2024)
     link: "https://modevar.github.io/"
     details: |
@@ -200,7 +210,7 @@ scientific_services:
     details: |
       2023.
       
-  - title: Reviewer for the Journal of Systems and Software
+  - title: Reviewer for the Journal of Systems and Software (JSS)
     link: #
     details: |
       since 2022.
